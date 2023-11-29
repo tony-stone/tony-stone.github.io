@@ -5,12 +5,11 @@ about:
   template: trestles
   image-shape: rectangle
   links:
-    - icon: orcid
-      text: ORCiD
-      href: https://orcid.org/0000-0002-0167-3800
     - icon: github
       text: Github
       href: https://github.com/tony-stone
+    - text: <span class="icon-orcid"></span>ORCiD
+      href: https://orcid.org/0000-0002-0167-3800
 ---
 
 ::: {#hero-heading}
