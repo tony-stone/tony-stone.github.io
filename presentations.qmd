@@ -29,7 +29,7 @@ An exploration of patient, organisational and spatio-temporal characteristics in
 
 A presentation about structuring projects and code based on guidance in the ONS's Duck Book.
 
-#### [Stuck in the middle?](https://tony-stone.github.io/keeping-a-tidy-house)
+#### [Stuck in the middle?](https://tony-stone.github.io/ECHILD-eval-presentation)
 
 **6 Sep 2023 - Private Audience, Edinburgh**
 
