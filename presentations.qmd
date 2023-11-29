@@ -1,0 +1,38 @@
+---
+title: "Tony Stone :: Presentations"
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: orcid
+      text: ORCiD
+      href: https://orcid.org/0000-0002-0167-3800
+    - icon: github
+      text: Github
+      href: https://github.com/tony-stone
+---
+
+::: {#hero-heading}
+## Presentations
+
+### 2023
+
+#### [Which people are most affected by changes to data linkage methodology?](https://tony-stone.github.io/adruk-conf)
+
+**16 Nov 2023 - ADR UK Conference, Birmingham**
+
+An exploration of patient, organisational and spatio-temporal characteristics in administrative hospital data in England.
+
+#### [Keeping a Tidy House](https://tony-stone.github.io/keeping-a-tidy-house)
+
+**21 Sep 2023 - ECHILD User Group, London**
+
+A presentation about structuring projects and code based on guidance in the ONS's Duck Book.
+
+#### [Stuck in the middle?](https://tony-stone.github.io/keeping-a-tidy-house)
+
+**6 Sep 2023 - Private Audience, Edinburgh**
+
+Plans and problems around the ECHILD record linkage evaluation.
+:::

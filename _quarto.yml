@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Tony Stone"
+
+  page-footer:
+    center: "Copyright &copy; `r format(Sys.time(), '%Y')` Tony Stone."
+
+  sidebar:
+    pinned: true
+    align: center
+    style: "docked"
+    collapse-level: 1
+    contents:
+      - text: "Presentations"
+        href: presentations.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
