@@ -1,3 +1,3 @@
 ## GitHub Pages homepage
 
-Repo for GitHub Pages websites at https://tony-stone.github.io
+Repo for GitHub Pages website at https://tony-stone.github.io
