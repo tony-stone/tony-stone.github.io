@@ -7,7 +7,7 @@ website:
   title: "Tony Stone"
 
   page-footer:
-    center: "Copyright &copy; `r format(Sys.time(), '%Y')` Tony Stone."
+    center: "Copyright &copy; 2023 Tony Stone."
 
   sidebar:
     pinned: true
