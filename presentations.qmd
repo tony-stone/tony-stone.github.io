@@ -15,6 +15,14 @@ about:
 ::: {#hero-heading}
 ## Presentations
 
+### 2024
+
+#### [Which people are most affected by changes to data linkage methodology? (updated!)](https://tony-stone.github.io/adruk-conf)
+
+**6 Mar 2024 - ONS Linkage Expert Group**
+
+An (updated!) exploration of patient, organisational and spatio-temporal characteristics in administrative hospital data in England.
+
 ### 2023
 
 #### [Which people are most affected by changes to data linkage methodology?](https://tony-stone.github.io/adruk-conf)
