@@ -30,6 +30,10 @@ I previously supported work on the appraisal of alcohol policies through
 decision modelling, with a particular focus on specialist alcohol treatment 
 services.
 
+## Presentations
+
+View my public [presentations](presentations.qmd).
+
 ## Publications
 
 A list of my publications can be found on 
