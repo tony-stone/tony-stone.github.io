@@ -17,6 +17,14 @@ about:
 
 ### 2024
 
+**21 Aug 2024 - ECHO-CCS investigators**
+
+#### [Education and longer-term Health Outcomes for Childhood Cancer Survivors (ECHO-CCS) project overview](https://tony-stone.github.io/echo-ccs-kickoff)
+
+**6 Mar 2024 - ONS Linkage Expert Group**
+
+An (updated) exploration of patient, organisational and spatio-temporal characteristics in administrative hospital data in England.
+
 #### [Which people are most affected by changes to data linkage methodology? (updated)](https://tony-stone.github.io/linkage-methodology-impact-ons)
 
 **6 Mar 2024 - ONS Linkage Expert Group**
