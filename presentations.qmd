@@ -17,6 +17,12 @@ about:
 
 ### 2024
 
+#### [Identifying "problematic" record linkage clusters using graph measures](https://tony-stone.github.io/problematic-clusters)
+
+**5 Sep 2024 - ONS Data Linkage Champions Group**
+
+ECHO-CCS kick-off meeting.
+
 #### [Education and longer-term Health Outcomes for Childhood Cancer Survivors (ECHO-CCS) project overview](https://tony-stone.github.io/echo-ccs-kickoff)
 
 **21 Aug 2024 - ECHO-CCS investigators**
